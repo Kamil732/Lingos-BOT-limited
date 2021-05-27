@@ -1,8 +1,5 @@
 # lingos-bot
 
-AUTOR: Kamil Głuchowski
-WERSJA: 0.1
-
 ## INSTALACJA:
 włącz plik "bot.exe" (nie jest to żaden wirus, musisz zewolić na włączenie go). 
 Wprowadź wartości, o które cię program zapyta, czyli email i hasło do linogsa,

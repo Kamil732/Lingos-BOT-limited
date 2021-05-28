@@ -393,7 +393,6 @@ Czy jesteś gotowy złożyć zamówienie?=Are you ready to order?
 Jakieś przystawki?=Any side dishes?
 dania dnia=specials
 przystawki=starters
-przystawki=starters
 dodatki do dania głównego=side dishes
 bezglutenowy=gluten-free
 pełnoziarnisty=wholegrain
